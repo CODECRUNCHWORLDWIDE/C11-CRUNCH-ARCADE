@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 [![Python · Pygame · Godot](https://img.shields.io/badge/stack-Python_·_Pygame_·_Godot-DB2777.svg)](#stack)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-DB2777.svg)](https://github.com/CODE-CRUNCH-CLUB)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-DB2777.svg)](https://github.com/CODECRUNCHWORLDWIDE)
 
 C11 is **dedicated game-dev**. It used to share a code with C# Foundations; that course is now [C9 · Crunch Sharp](../C9-CRUNCH-SHARP/). C11 focuses on 2D indie game development with Python (Pygame) for the fundamentals and Godot 4 (GDScript) for the polished capstone.
 
