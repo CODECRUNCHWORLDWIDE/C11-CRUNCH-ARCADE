@@ -2,16 +2,16 @@
   "repo": "C11-CRUNCH-ARCADE",
   "files": [
     {
+      "path": "00-overview.md",
+      "title": "C11 \u00b7 Crunch Arcade \u2014 Game Development"
+    },
+    {
       "path": "CODE_OF_CONDUCT.md",
       "title": "Contributor Covenant Code of Conduct"
     },
     {
       "path": "CONTRIBUTING.md",
       "title": "Contributing to Crunch Arcade"
-    },
-    {
-      "path": "README.md",
-      "title": "C11 \u00b7 Crunch Arcade \u2014 Game Development"
     },
     {
       "path": "assets/branding/BRAND.md",
@@ -22,488 +22,516 @@
       "title": "C11 \u00b7 Crunch Arcade \u2014 Syllabus"
     },
     {
-      "path": "curriculum/week-01-the-game-loop/README.md",
+      "path": "curriculum/week-01-the-game-loop/00-overview.md",
       "title": "Week 1 \u2014 The Game Loop"
     },
     {
-      "path": "curriculum/week-01-the-game-loop/challenges/README.md",
-      "title": "Week 1 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/challenges/challenge-01-bouncing-ball.md",
-      "title": "Challenge 1 \u2014 Bouncing Ball"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/exercises/README.md",
-      "title": "Week 1 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/homework.md",
-      "title": "Week 1 Homework"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/lecture-notes/01-the-game-loop-and-why-it-exists.md",
-      "title": "Lecture 1 \u2014 The Game Loop and Why It Exists"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/lecture-notes/02-delta-time-and-the-fixed-timestep.md",
-      "title": "Lecture 2 \u2014 Delta Time and the Fixed Timestep"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/mini-project/README.md",
-      "title": "Mini-Project \u2014 Crunch Dot"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/quiz.md",
-      "title": "Week 1 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-01-the-game-loop/resources.md",
+      "path": "curriculum/week-01-the-game-loop/01-resources.md",
       "title": "Week 1 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-02-collisions-and-physics-lite/README.md",
+      "path": "curriculum/week-01-the-game-loop/02-lecture-notes/01-the-game-loop-and-why-it-exists.md",
+      "title": "Lecture 1 \u2014 The Game Loop and Why It Exists"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/02-lecture-notes/02-delta-time-and-the-fixed-timestep.md",
+      "title": "Lecture 2 \u2014 Delta Time and the Fixed Timestep"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/03-exercises/00-overview.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/04-challenges/00-overview.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/04-challenges/challenge-01-bouncing-ball.md",
+      "title": "Challenge 1 \u2014 Bouncing Ball"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/05-quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/06-homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-the-game-loop/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Crunch Dot"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/00-overview.md",
       "title": "Week 2 \u2014 Collisions and Physics-Lite"
     },
     {
-      "path": "curriculum/week-02-collisions-and-physics-lite/challenges/README.md",
-      "title": "Week 2 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/challenges/challenge-01-brick-breaker.md",
-      "title": "Challenge 1 \u2014 Brick-Breaker Prototype"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/exercises/README.md",
-      "title": "Week 2 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/homework.md",
-      "title": "Week 2 Homework"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/lecture-notes/01-aabb-collision-and-rectangles.md",
-      "title": "Lecture 1 \u2014 AABB Collision and Rectangles"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/lecture-notes/02-velocity-gravity-and-the-bouncing-ball.md",
-      "title": "Lecture 2 \u2014 Velocity, Gravity, and the Bouncing Ball"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/mini-project/README.md",
-      "title": "Mini-Project \u2014 Brick Breaker (or Pong \u2014 your call)"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/quiz.md",
-      "title": "Week 2 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-02-collisions-and-physics-lite/resources.md",
+      "path": "curriculum/week-02-collisions-and-physics-lite/01-resources.md",
       "title": "Week 2 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-03-game-design-vocabulary/README.md",
+      "path": "curriculum/week-02-collisions-and-physics-lite/02-lecture-notes/01-aabb-collision-and-rectangles.md",
+      "title": "Lecture 1 \u2014 AABB Collision and Rectangles"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/02-lecture-notes/02-velocity-gravity-and-the-bouncing-ball.md",
+      "title": "Lecture 2 \u2014 Velocity, Gravity, and the Bouncing Ball"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/03-exercises/00-overview.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/04-challenges/00-overview.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/04-challenges/challenge-01-brick-breaker.md",
+      "title": "Challenge 1 \u2014 Brick-Breaker Prototype"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/05-quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/06-homework.md",
+      "title": "Week 2 Homework"
+    },
+    {
+      "path": "curriculum/week-02-collisions-and-physics-lite/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Brick Breaker (or Pong \u2014 your call)"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/00-overview.md",
       "title": "Week 3 \u2014 Game Design Vocabulary"
     },
     {
-      "path": "curriculum/week-03-game-design-vocabulary/challenges/README.md",
-      "title": "Week 3 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/challenges/challenge-01-juice-comparison-video.md",
-      "title": "Challenge 1 \u2014 Juice-Comparison Video"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/exercises/README.md",
-      "title": "Week 3 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/homework.md",
-      "title": "Week 3 Homework"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/lecture-notes/01-what-makes-a-game-feel-good.md",
-      "title": "Lecture 1 \u2014 What Makes a Game Feel Good"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/lecture-notes/02-the-four-lenses-and-the-MDA-framework.md",
-      "title": "Lecture 2 \u2014 The Four Lenses and the MDA Framework"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/mini-project/README.md",
-      "title": "Mini-Project \u2014 Juice Your Brick Breaker"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/quiz.md",
-      "title": "Week 3 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-03-game-design-vocabulary/resources.md",
+      "path": "curriculum/week-03-game-design-vocabulary/01-resources.md",
       "title": "Week 3 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-04-tilemaps-and-levels/README.md",
+      "path": "curriculum/week-03-game-design-vocabulary/02-lecture-notes/01-what-makes-a-game-feel-good.md",
+      "title": "Lecture 1 \u2014 What Makes a Game Feel Good"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/02-lecture-notes/02-the-four-lenses-and-the-MDA-framework.md",
+      "title": "Lecture 2 \u2014 The Four Lenses and the MDA Framework"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/03-exercises/00-overview.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/04-challenges/00-overview.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/04-challenges/challenge-01-juice-comparison-video.md",
+      "title": "Challenge 1 \u2014 Juice-Comparison Video"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/05-quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/06-homework.md",
+      "title": "Week 3 Homework"
+    },
+    {
+      "path": "curriculum/week-03-game-design-vocabulary/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Juice Your Brick Breaker"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/00-overview.md",
       "title": "Week 4 \u2014 Tilemaps and Levels"
     },
     {
-      "path": "curriculum/week-04-tilemaps-and-levels/challenges/README.md",
-      "title": "Week 4 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/challenges/challenge-01-3-loadable-levels.md",
-      "title": "Challenge 1 \u2014 Three Loadable Levels"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/exercises/README.md",
-      "title": "Week 4 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/homework.md",
-      "title": "Week 4 Homework"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/lecture-notes/01-the-tilemap-data-format.md",
-      "title": "Lecture 1 \u2014 The Tilemap Data Format"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/lecture-notes/02-camera-and-off-screen-culling.md",
-      "title": "Lecture 2 \u2014 Camera and Off-Screen Culling"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/mini-project/README.md",
-      "title": "Mini-Project \u2014 A 2D Platformer Prototype with Three Loadable Levels"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/quiz.md",
-      "title": "Week 4 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-04-tilemaps-and-levels/resources.md",
+      "path": "curriculum/week-04-tilemaps-and-levels/01-resources.md",
       "title": "Week 4 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-05-state-machines/README.md",
+      "path": "curriculum/week-04-tilemaps-and-levels/02-lecture-notes/01-the-tilemap-data-format.md",
+      "title": "Lecture 1 \u2014 The Tilemap Data Format"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/02-lecture-notes/02-camera-and-off-screen-culling.md",
+      "title": "Lecture 2 \u2014 Camera and Off-Screen Culling"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/03-exercises/00-overview.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/04-challenges/00-overview.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/04-challenges/challenge-01-3-loadable-levels.md",
+      "title": "Challenge 1 \u2014 Three Loadable Levels"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/05-quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/06-homework.md",
+      "title": "Week 4 Homework"
+    },
+    {
+      "path": "curriculum/week-04-tilemaps-and-levels/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A 2D Platformer Prototype with Three Loadable Levels"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/00-overview.md",
       "title": "Week 5 \u2014 State Machines for Characters"
     },
     {
-      "path": "curriculum/week-05-state-machines/challenges/README.md",
-      "title": "Week 5 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/challenges/challenge-01-enemy-ai-fsm.md",
-      "title": "Challenge 1 \u2014 Enemy AI FSM"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/exercises/README.md",
-      "title": "Week 5 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/homework.md",
-      "title": "Week 5 Homework"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/lecture-notes/01-hand-rolled-fsm.md",
-      "title": "Lecture 1 \u2014 The Hand-Rolled Finite State Machine"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/lecture-notes/02-state-transitions-and-substates.md",
-      "title": "Lecture 2 \u2014 State Transitions and Substates"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/mini-project/README.md",
-      "title": "Mini-Project \u2014 A Player Character with Clean States and Transitions"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/quiz.md",
-      "title": "Week 5 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-05-state-machines/resources.md",
+      "path": "curriculum/week-05-state-machines/01-resources.md",
       "title": "Week 5 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-06-animation-and-juice/README.md",
+      "path": "curriculum/week-05-state-machines/02-lecture-notes/01-hand-rolled-fsm.md",
+      "title": "Lecture 1 \u2014 The Hand-Rolled Finite State Machine"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/02-lecture-notes/02-state-transitions-and-substates.md",
+      "title": "Lecture 2 \u2014 State Transitions and Substates"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/03-exercises/00-overview.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/04-challenges/00-overview.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/04-challenges/challenge-01-enemy-ai-fsm.md",
+      "title": "Challenge 1 \u2014 Enemy AI FSM"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/05-quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/06-homework.md",
+      "title": "Week 5 Homework"
+    },
+    {
+      "path": "curriculum/week-05-state-machines/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A Player Character with Clean States and Transitions"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/00-overview.md",
       "title": "Week 6 \u2014 Animation and Juice"
     },
     {
-      "path": "curriculum/week-06-animation-and-juice/challenges/README.md",
-      "title": "Week 6 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/challenges/challenge-01-before-after-juice-comparison.md",
-      "title": "Challenge 1 \u2014 Before/After Juice Comparison"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/exercises/README.md",
-      "title": "Week 6 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/homework.md",
-      "title": "Week 6 Homework"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/lecture-notes/01-sprite-sheet-animation.md",
-      "title": "Lecture 1 \u2014 Sprite-Sheet Animation"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/lecture-notes/02-tweening-easing-and-juice.md",
-      "title": "Lecture 2 \u2014 Tweening, Easing, and Juice"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/mini-project/README.md",
-      "title": "Mini-Project \u2014 A Full Juice Pass on Your Week-5 Character"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/quiz.md",
-      "title": "Week 6 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-06-animation-and-juice/resources.md",
+      "path": "curriculum/week-06-animation-and-juice/01-resources.md",
       "title": "Week 6 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-07-save-and-load-systems/README.md",
+      "path": "curriculum/week-06-animation-and-juice/02-lecture-notes/01-sprite-sheet-animation.md",
+      "title": "Lecture 1 \u2014 Sprite-Sheet Animation"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/02-lecture-notes/02-tweening-easing-and-juice.md",
+      "title": "Lecture 2 \u2014 Tweening, Easing, and Juice"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/03-exercises/00-overview.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/04-challenges/00-overview.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/04-challenges/challenge-01-before-after-juice-comparison.md",
+      "title": "Challenge 1 \u2014 Before/After Juice Comparison"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/05-quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/06-homework.md",
+      "title": "Week 6 Homework"
+    },
+    {
+      "path": "curriculum/week-06-animation-and-juice/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A Full Juice Pass on Your Week-5 Character"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/00-overview.md",
       "title": "Week 7 \u2014 Save and Load Systems"
     },
     {
-      "path": "curriculum/week-07-save-and-load-systems/challenges/challenge-01-cloud-save-with-conflict-resolution.md",
-      "title": "Challenge 1 \u2014 Cloud Save with Conflict Resolution"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/challenges/challenge-02-implement-save-slot-ui.md",
-      "title": "Challenge 2 \u2014 Implement a Save-Slot UI"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/exercises/SOLUTIONS.md",
-      "title": "Exercises \u2014 Solutions and Common Bugs"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/homework.md",
-      "title": "Week 7 Homework"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/lecture-notes/01-what-state-actually-needs-saving.md",
-      "title": "Lecture 1 \u2014 What State Actually Needs Saving"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/lecture-notes/02-serialization-formats-trade-offs.md",
-      "title": "Lecture 2 \u2014 Serialization Formats and Trade-offs"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/lecture-notes/03-versioning-migration-and-recovery.md",
-      "title": "Lecture 3 \u2014 Versioning, Migration, and Recovery"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/mini-project/README.md",
-      "title": "Mini-Project \u2014 A Tiny RPG with a Real Save System"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/quiz.md",
-      "title": "Week 7 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-07-save-and-load-systems/resources.md",
+      "path": "curriculum/week-07-save-and-load-systems/01-resources.md",
       "title": "Week 7 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-08-sound-and-music-systems/README.md",
+      "path": "curriculum/week-07-save-and-load-systems/02-lecture-notes/01-what-state-actually-needs-saving.md",
+      "title": "Lecture 1 \u2014 What State Actually Needs Saving"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/02-lecture-notes/02-serialization-formats-trade-offs.md",
+      "title": "Lecture 2 \u2014 Serialization Formats and Trade-offs"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/02-lecture-notes/03-versioning-migration-and-recovery.md",
+      "title": "Lecture 3 \u2014 Versioning, Migration, and Recovery"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/03-exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Solutions and Common Bugs"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/04-challenges/challenge-01-cloud-save-with-conflict-resolution.md",
+      "title": "Challenge 1 \u2014 Cloud Save with Conflict Resolution"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/04-challenges/challenge-02-implement-save-slot-ui.md",
+      "title": "Challenge 2 \u2014 Implement a Save-Slot UI"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/05-quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/06-homework.md",
+      "title": "Week 7 Homework"
+    },
+    {
+      "path": "curriculum/week-07-save-and-load-systems/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A Tiny RPG with a Real Save System"
+    },
+    {
+      "path": "curriculum/week-08-sound-and-music-systems/00-overview.md",
       "title": "Week 8 \u2014 Sound and Music Systems"
     },
     {
-      "path": "curriculum/week-08-sound-and-music-systems/challenges/challenge-01-author-a-seamless-loop-in-audacity.md",
-      "title": "Challenge 1 \u2014 Author a Seamless Loop in Audacity"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/challenges/challenge-02-design-a-mixer-for-a-fighting-game.md",
-      "title": "Challenge 2 \u2014 Design a Mixer for a Fighting Game"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/exercises/SOLUTIONS.md",
-      "title": "Exercises \u2014 Solutions and Common Bugs"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/homework.md",
-      "title": "Week 8 Homework"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/lecture-notes/01-audio-engine-fundamentals-and-pygame-mixer.md",
-      "title": "Lecture 1 \u2014 Audio Engine Fundamentals and `pygame.mixer`"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/lecture-notes/02-mixing-buses-and-dynamic-music.md",
-      "title": "Lecture 2 \u2014 Mixing, Buses, and Dynamic Music"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/lecture-notes/03-authoring-loops-formats-and-the-godot-bridge.md",
-      "title": "Lecture 3 \u2014 Authoring Loops, Formats, and the Godot Bridge"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/mini-project/README.md",
-      "title": "Mini-Project \u2014 A Tiny Arcade Game with a Real Audio System"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/quiz.md",
-      "title": "Week 8 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-08-sound-and-music-systems/resources.md",
+      "path": "curriculum/week-08-sound-and-music-systems/01-resources.md",
       "title": "Week 8 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/README.md",
-      "title": "Week 9 \u2014 Multiplayer Game Fundamentals"
+      "path": "curriculum/week-08-sound-and-music-systems/02-lecture-notes/01-audio-engine-fundamentals-and-pygame-mixer.md",
+      "title": "Lecture 1 \u2014 Audio Engine Fundamentals and `pygame.mixer`"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/challenges/challenge-01-measure-your-link.md",
-      "title": "Challenge 1 \u2014 Measure Your Link"
+      "path": "curriculum/week-08-sound-and-music-systems/02-lecture-notes/02-mixing-buses-and-dynamic-music.md",
+      "title": "Lecture 2 \u2014 Mixing, Buses, and Dynamic Music"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/challenges/challenge-02-design-a-rollback-netcode-sketch.md",
-      "title": "Challenge 2 \u2014 Design a Rollback Netcode Sketch"
+      "path": "curriculum/week-08-sound-and-music-systems/02-lecture-notes/03-authoring-loops-formats-and-the-godot-bridge.md",
+      "title": "Lecture 3 \u2014 Authoring Loops, Formats, and the Godot Bridge"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/exercises/SOLUTIONS.md",
+      "path": "curriculum/week-08-sound-and-music-systems/03-exercises/SOLUTIONS.md",
       "title": "Exercises \u2014 Solutions and Common Bugs"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/homework.md",
-      "title": "Week 9 Homework"
+      "path": "curriculum/week-08-sound-and-music-systems/04-challenges/challenge-01-author-a-seamless-loop-in-audacity.md",
+      "title": "Challenge 1 \u2014 Author a Seamless Loop in Audacity"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/lecture-notes/01-networking-models-latency-and-udp.md",
-      "title": "Lecture 1 \u2014 Networking Models, Latency, and Why UDP"
+      "path": "curriculum/week-08-sound-and-music-systems/04-challenges/challenge-02-design-a-mixer-for-a-fighting-game.md",
+      "title": "Challenge 2 \u2014 Design a Mixer for a Fighting Game"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/lecture-notes/02-snapshots-interpolation-prediction-reconciliation.md",
-      "title": "Lecture 2 \u2014 Snapshots, Interpolation, Prediction, and Reconciliation"
+      "path": "curriculum/week-08-sound-and-music-systems/05-quiz.md",
+      "title": "Week 8 \u2014 Quiz"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/lecture-notes/03-godot-multiplayer-api-and-the-rpc-pattern.md",
-      "title": "Lecture 3 \u2014 The Godot 4.x Multiplayer API and the `@rpc` Pattern"
+      "path": "curriculum/week-08-sound-and-music-systems/06-homework.md",
+      "title": "Week 8 Homework"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/mini-project/README.md",
-      "title": "Mini-Project \u2014 Two Cursors on a Shared Canvas"
+      "path": "curriculum/week-08-sound-and-music-systems/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A Tiny Arcade Game with a Real Audio System"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/quiz.md",
-      "title": "Week 9 \u2014 Quiz"
+      "path": "curriculum/week-09-multiplayer-fundamentals/00-overview.md",
+      "title": "Week 9 \u2014 Multiplayer Game Fundamentals"
     },
     {
-      "path": "curriculum/week-09-multiplayer-fundamentals/resources.md",
+      "path": "curriculum/week-09-multiplayer-fundamentals/01-resources.md",
       "title": "Week 9 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-10-shaders-and-visual-effects/README.md",
+      "path": "curriculum/week-09-multiplayer-fundamentals/02-lecture-notes/01-networking-models-latency-and-udp.md",
+      "title": "Lecture 1 \u2014 Networking Models, Latency, and Why UDP"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/02-lecture-notes/02-snapshots-interpolation-prediction-reconciliation.md",
+      "title": "Lecture 2 \u2014 Snapshots, Interpolation, Prediction, and Reconciliation"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/02-lecture-notes/03-godot-multiplayer-api-and-the-rpc-pattern.md",
+      "title": "Lecture 3 \u2014 The Godot 4.x Multiplayer API and the `@rpc` Pattern"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/03-exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Solutions and Common Bugs"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/04-challenges/challenge-01-measure-your-link.md",
+      "title": "Challenge 1 \u2014 Measure Your Link"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/04-challenges/challenge-02-design-a-rollback-netcode-sketch.md",
+      "title": "Challenge 2 \u2014 Design a Rollback Netcode Sketch"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/05-quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/06-homework.md",
+      "title": "Week 9 Homework"
+    },
+    {
+      "path": "curriculum/week-09-multiplayer-fundamentals/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Two Cursors on a Shared Canvas"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/00-overview.md",
       "title": "Week 10 \u2014 Shaders and Visual Effects"
     },
     {
-      "path": "curriculum/week-10-shaders-and-visual-effects/challenges/challenge-01-port-a-shadertoy.md",
-      "title": "Challenge 1 \u2014 Port a Shadertoy Effect to Godot"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/challenges/challenge-02-design-a-LUT.md",
-      "title": "Challenge 2 \u2014 Design a Colour-Grade LUT"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/exercises/SOLUTIONS.md",
-      "title": "Exercises \u2014 Solutions and Walk-Throughs"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/homework.md",
-      "title": "Week 10 Homework \u2014 Shaders and Visual Effects"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/lecture-notes/01-rendering-pipeline-and-the-fragment-shader.md",
-      "title": "Lecture 1 \u2014 The Rendering Pipeline and the Fragment Shader"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/lecture-notes/02-godot-shader-system-uniforms-and-canvas-item.md",
-      "title": "Lecture 2 \u2014 The Godot 4 Shader System: ShaderMaterial, Uniforms, Canvas Item"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/lecture-notes/03-effects-toolbox-and-the-post-process-quad.md",
-      "title": "Lecture 3 \u2014 The Effects Toolbox and the Post-Process Quad"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/mini-project/README.md",
-      "title": "Mini-project \u2014 Polish Pass on a Prior Week's Game"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/quiz.md",
-      "title": "Week 10 Quiz \u2014 Shaders and Visual Effects"
-    },
-    {
-      "path": "curriculum/week-10-shaders-and-visual-effects/resources.md",
+      "path": "curriculum/week-10-shaders-and-visual-effects/01-resources.md",
       "title": "Week 10 Resources \u2014 Shaders and Visual Effects"
     },
     {
-      "path": "curriculum/week-11-save-systems-and-serialization/README.md",
+      "path": "curriculum/week-10-shaders-and-visual-effects/02-lecture-notes/01-rendering-pipeline-and-the-fragment-shader.md",
+      "title": "Lecture 1 \u2014 The Rendering Pipeline and the Fragment Shader"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/02-lecture-notes/02-godot-shader-system-uniforms-and-canvas-item.md",
+      "title": "Lecture 2 \u2014 The Godot 4 Shader System: ShaderMaterial, Uniforms, Canvas Item"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/02-lecture-notes/03-effects-toolbox-and-the-post-process-quad.md",
+      "title": "Lecture 3 \u2014 The Effects Toolbox and the Post-Process Quad"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/03-exercises/SOLUTIONS.md",
+      "title": "Exercises \u2014 Solutions and Walk-Throughs"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/04-challenges/challenge-01-port-a-shadertoy.md",
+      "title": "Challenge 1 \u2014 Port a Shadertoy Effect to Godot"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/04-challenges/challenge-02-design-a-LUT.md",
+      "title": "Challenge 2 \u2014 Design a Colour-Grade LUT"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/05-quiz.md",
+      "title": "Week 10 Quiz \u2014 Shaders and Visual Effects"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/06-homework.md",
+      "title": "Week 10 Homework \u2014 Shaders and Visual Effects"
+    },
+    {
+      "path": "curriculum/week-10-shaders-and-visual-effects/07-mini-project/00-overview.md",
+      "title": "Mini-project \u2014 Polish Pass on a Prior Week's Game"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/00-overview.md",
       "title": "Week 11 \u2014 Save Systems and Serialization"
     },
     {
-      "path": "curriculum/week-11-save-systems-and-serialization/challenges/challenge-01-hmac-signed-saves.md",
-      "title": "Challenge 01 \u2014 HMAC-Signed Saves"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/challenges/challenge-02-msgpack-in-godot.md",
-      "title": "Challenge 02 \u2014 Pure-GDScript MessagePack Round-Trip"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/exercises/SOLUTIONS.md",
-      "title": "Exercise Solutions \u2014 Week 11"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/homework.md",
-      "title": "Week 11 Homework"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/lecture-notes/01-when-and-what-to-save.md",
-      "title": "Lecture 1 \u2014 When and What to Save"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/lecture-notes/02-formats-schemas-and-migration.md",
-      "title": "Lecture 2 \u2014 Formats, Schemas, and the Migration Story"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/lecture-notes/03-atomicity-integrity-cloud-recovery.md",
-      "title": "Lecture 3 \u2014 Atomicity, Integrity, Cloud Saves, Recovery"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/mini-project/README.md",
-      "title": "Mini-Project \u2014 Bolt a Complete Save System onto a Prior-Week Game"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/quiz.md",
-      "title": "Week 11 Quiz \u2014 Save Systems and Serialization"
-    },
-    {
-      "path": "curriculum/week-11-save-systems-and-serialization/resources.md",
+      "path": "curriculum/week-11-save-systems-and-serialization/01-resources.md",
       "title": "Week 11 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/README.md",
+      "path": "curriculum/week-11-save-systems-and-serialization/02-lecture-notes/01-when-and-what-to-save.md",
+      "title": "Lecture 1 \u2014 When and What to Save"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/02-lecture-notes/02-formats-schemas-and-migration.md",
+      "title": "Lecture 2 \u2014 Formats, Schemas, and the Migration Story"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/02-lecture-notes/03-atomicity-integrity-cloud-recovery.md",
+      "title": "Lecture 3 \u2014 Atomicity, Integrity, Cloud Saves, Recovery"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/03-exercises/SOLUTIONS.md",
+      "title": "Exercise Solutions \u2014 Week 11"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/04-challenges/challenge-01-hmac-signed-saves.md",
+      "title": "Challenge 01 \u2014 HMAC-Signed Saves"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/04-challenges/challenge-02-msgpack-in-godot.md",
+      "title": "Challenge 02 \u2014 Pure-GDScript MessagePack Round-Trip"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/05-quiz.md",
+      "title": "Week 11 Quiz \u2014 Save Systems and Serialization"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/06-homework.md",
+      "title": "Week 11 Homework"
+    },
+    {
+      "path": "curriculum/week-11-save-systems-and-serialization/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Bolt a Complete Save System onto a Prior-Week Game"
+    },
+    {
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/00-overview.md",
       "title": "Week 12 \u2014 Capstone: Ship a Complete Arcade Game"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/exercises/SOLUTIONS.md",
-      "title": "Exercise solutions \u2014 Week 12"
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/01-resources.md",
+      "title": "Week 12 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/lecture-notes/01-scope-the-pitch-and-the-monday-scope-sheet.md",
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/02-lecture-notes/01-scope-the-pitch-and-the-monday-scope-sheet.md",
       "title": "Lecture 1 \u2014 Scope, the pitch, and the Monday scope sheet"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/lecture-notes/02-export-build-and-the-four-targets.md",
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/02-lecture-notes/02-export-build-and-the-four-targets.md",
       "title": "Lecture 2 \u2014 Export, build, and the four targets"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/lecture-notes/03-the-itch-page-the-trailer-and-the-credits.md",
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/02-lecture-notes/03-the-itch-page-the-trailer-and-the-credits.md",
       "title": "Lecture 3 \u2014 The itch.io page, the trailer, and the credits"
     },
     {
-      "path": "curriculum/week-12-capstone-ship-a-complete-game/resources.md",
-      "title": "Week 12 \u2014 Resources"
+      "path": "curriculum/week-12-capstone-ship-a-complete-game/03-exercises/SOLUTIONS.md",
+      "title": "Exercise solutions \u2014 Week 12"
+    },
+    {
+      "path": "past-sessions/SPRING-2025/README-C11-SPR25.MD",
+      "title": "C1 Crunch Convos"
+    },
+    {
+      "path": "projects/capstone/00-overview.md",
+      "title": "Capstone Project \u2014 Master Guide"
+    },
+    {
+      "path": "resources/setup-guides/00-overview.md",
+      "title": "Setup Guides"
+    },
+    {
+      "path": "resources/setup-guides/browser.md",
+      "title": "Browser-Based Setup (No Install)"
+    },
+    {
+      "path": "resources/setup-guides/linux.md",
+      "title": "Linux Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/macos.md",
+      "title": "macOS Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/windows.md",
+      "title": "Windows Setup Guide"
     }
   ]
 }
